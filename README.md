@@ -50,7 +50,7 @@ Unicode Whitespace
 
 
 ```
-python.py -t unicode_whitespace -p "This is a test. hidden"
+python reveal_hidden_text.py -t unicode_whitespace -p "This is a test. hidden"
 ```
 Output:
 
